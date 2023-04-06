@@ -33,3 +33,8 @@ Address the randomuser server as a number times the user requested each time pri
 if for example the user types 50 - 50 names of will be printed different users.
 Clarification: on this site, every time a REST GET request is fired
 Get another random user info...
+
+
+
+![image](https://user-images.githubusercontent.com/111492589/230242727-245a89a8-627b-4518-90e5-8181af3721f7.png)
+
